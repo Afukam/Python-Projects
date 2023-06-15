@@ -1,2 +1,4 @@
 # Affirmation-generator
-An affirmation generator to help you feel good. Random affirmations for each day of the week
+I made this as an assignment for 100daysofpython that I never finished, so it may not be the best, but it's not the worst out there.
+
+
