@@ -1,4 +1,4 @@
-# Affirmation-generator
-I made this as an assignment for 100daysofpython that I never finished, so it may not be the best, but it's not the worst out there.
+# Python-Projects
+This was constructed by myself as a repository for all the Python projects I've ever made. The ideas come from different classes, school, and my own inspiration.
 
 
